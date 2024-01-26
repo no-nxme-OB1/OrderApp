@@ -1,6 +1,12 @@
 # OrderApp
 Guided Project: OrderApp  
 
+NB: before you start the app
+1. open the resource folder
+2. open the open restaurant file
+3. click start server
+4. run the xcode app.
+
 The restuarants Home page / Menu Page
 
 the below image shows a expandable list of categories that a user can pick from:
